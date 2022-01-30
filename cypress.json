@@ -1,0 +1,10 @@
+{
+    
+    "env": {
+      "url": "https://www.vooberlin.com/"
+    },
+    "testFiles": "**/*.{feature,features}",
+    "chromeWebSecurity": false
+  
+  }
+  
